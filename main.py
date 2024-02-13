@@ -1,0 +1,1 @@
+# abstraktne triedy
